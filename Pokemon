@@ -1,0 +1,16 @@
+{"CodesReleased":
+{"Moves":["Nasty Plot","Aura Sphere","Flash Cannon","Bullet Punch"],
+"PokemonName":"Lucario",
+"Nature":"Hasty",
+"Nickname":"ThankYou",
+"Pokeball":"Pokeball",
+"Level":"Badge",
+"Gender":"Male",
+"Shiny":true,
+"Skin":"0",
+"TL":false,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"ZephlynRB",
+"EVs":{"SpA":84,"HP":84,"Speed":84,"SpD":84,"Def":84,"84":84},
+"Allowed":true
+}}
